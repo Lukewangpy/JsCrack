@@ -1,0 +1,4 @@
+网址：https://www.jdj007.com/?from=live_win007__home_navigation
+加密位置：请求包的sign
+参数跟踪注意：
+	通过异步加密注意 then e.shift
